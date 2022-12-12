@@ -13,6 +13,9 @@ class_obj = {
             "truncate": "NONE"
         }
     },
+    "vectorIndexConfig": {
+        "distance": "dot"
+    },
     "properties": [
     {
         "name": "content",
