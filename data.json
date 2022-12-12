@@ -1,0 +1,58 @@
+{
+  "documents": [{
+    "name": "Meerkat",
+    "enName": "Meerkat",
+    "link": "https://en.wikipedia.org/wiki/Meerkat",
+    "lang": "en",
+    "content": "The meerkat (Suricata suricatta) or suricate is a small mongoose found in southern Africa. It is characterised by a broad head, large eyes, a pointed snout, long legs, a thin tapering tail, and a brindled coat pattern. The head-and-body length is around 24-35 cm (9.4-13.8 in), and the weight is typically between 0.62 and 0.97 kg (1.4 and 2.1 lb). The coat is light grey to yellowish-brown with alternate, poorly-defined light and dark bands on the back. Meerkats have foreclaws adapted for digging and have the ability to thermoregulate to survive in their harsh, dry habitat. Three subspecies are recognised. Meerkats are highly social, and form packs of two to 30 individuals each that occupy home ranges around 5 km2 (1.9 sq mi) in area. There is a social hierarchy—generally dominant individuals in a pack breed and produce offspring, and the nonbreeding, subordinate members provide altruistic care to the pups. Breeding occurs around the year, with peaks during heavy rainfall; after a gestation of 60 to 70 days, a litter of three to seven pups is born."
+  }, {
+    "name": "Suricata",
+    "enName": "Meerkat",
+    "link": "https://es.wikipedia.org/wiki/Suricata_suricatta",
+    "lang": "es",
+    "content": "La suricata (Suricata suricatta) es una especie de mamífero carnívoro de la familia Herpestidae que habita la región del desierto de Kalahari y el Namib en África. La suricata es una de las mangostas más pequeñas; los machos tienen un peso promedio de 731 g y las hembras de 720 g. El cuerpo y miembros de estos animales son largos y esbeltos, con una longitud del cuerpo y la cabeza de entre 25 y 35 cm. La cola es delgada y un poco alargada, midiendo 175-250 mm. A diferencia de la mayoría de las mangostas carece de abundante pelaje. La cara tiene forma cónica, terminando en punta en la nariz y redondeada en la parte posterior de la cabeza. Las orejas son pequeñas y tienen forma de media luna. El color del pelaje varía geográficamente. En la región sur de su distribución, el color del pelo es más oscuro, con un tinte más claro en las regiones más áridas. Generalmente el color es gris moteado, canela o marrón con tinte plateado. La nariz es marrón. La parte ventral del cuerpo está parcialmente cubierto con pelo. Las garras de los miembros anteriores están adaptadas para escarbar y la cola es amarillo-canela con la punta de color negro. Adicionalmente, tiene parches de color negro alrededor de los ojos. Tiene bandas de color negro que atraviesan la región dorsal excepto la cabeza y la cola."
+  }, {
+    "name": "Surikat",
+    "enName": "Meerkat",
+    "link": "https://sv.wikipedia.org/wiki/Surikat",
+    "lang": "sv",
+    "content": "Surikat (Suricata suricatta) är ett litet däggdjur som lever i sydvästra Afrika, i Kalahariöknen i Botswana, i Namiböknen i Namibia och Angola samt i Sydafrika. Det tillhör rovdjursfamiljen manguster. Surikater tillhör de mindre mangusterna. Kroppens längd är mellan 25 och 35 centimeter och till detta kommer en cirka 20-25 centimeter lång, smal svans med kort, slät päls och vanligen en svart spets. Pälsens färg är beroende på geografisk form grå, beige eller brunaktig. Från ryggraden till sidorna finns ett antal mörka tvärstreck, men dessa finns inte på huvudet och svansen. Buksidan har endast gles päls. Runt ögonen förekommer svartaktig päls. Vid främre extremiteterna har surikater tydligt långa klor som används för att gräva i sanden. Vikten uppskattas till mellan 620 och 960 g."
+  }, {
+    "name": "Erdmännchen",
+    "enName": "Meerkat",
+    "link": "https://de.wikipedia.org/wiki/Erdm%C3%A4nnchen",
+    "lang": "de",
+    "content": "Das Erdmännchen (Suricata suricatta), auch Surikate oder veraltet Scharrtier genannt, ist eine Säugetierart aus der Familie der Mangusten (Herpestidae). Mit durchschnittlich 700 bis 750 g ist es eine der kleinsten Mangustenarten, es hat ein hellgraues Fell mit unauffälligen Querstreifen. Erdmännchen leben in trockenen Regionen im südlichen Afrika. Sie leben in Gruppen von vier bis neun Tieren mit ausgeprägtem Sozialverhalten und ernähren sich vorwiegend von Insekten. Sie zählen nicht zu den bedrohten Arten."
+  }, {
+    "name": "Horse",
+    "enName": "Horse",
+    "link": "https://en.wikipedia.org/wiki/Horse",
+    "lang": "en",
+    "content": "The horse (Equus ferus caballus) is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant subspecies of Equus ferus. The horse has evolved over the past 45 to 55 million years from a small multi-toed creature, Eohippus, into the large, single-toed animal of today. Humans began domesticating horses around 4000 BCE, and their domestication is believed to have been widespread by 3000 BCE. Horses in the subspecies caballus are domesticated, although some domesticated populations live in the wild as feral horses."
+  }, {
+    "name": "Hörnchen",
+    "enName": "Squirrel",
+    "lang": "de",
+    "link": "https://de.wikipedia.org/wiki/H%C3%B6rnchen",
+    "content": "Die Hörnchen (Sciuridae) sind eine Familie aus der Ordnung der Nagetiere (Rodentia). Unter anderem gehören das Eurasische Eichhörnchen, das Streifenhörnchen und das europäische Ziesel zu dieser Familie. Insgesamt werden die Hörnchen heute in 51 Gattungen mit etwa 270 bis 280 Arten eingeteilt, wobei die Klassifikation noch im Fluss ist. Hörnchen sind auf der ganzen Welt außer in Australien, Madagaskar und der Antarktis verbreitet."
+  }, {
+    "name": "Chitarra",
+    "enName": "Guitar",
+    "link": "https://it.wikipedia.org/wiki/Chitarra",
+    "lang": "it",
+    "content": "La chitarra è uno strumento musicale cordofono a pizzico, che può essere suonato con i polpastrelli, con le unghie o con un plettro. "
+  }, {
+    "name": "Drum",
+    "enName": "Drum",
+    "link": "https://en.wikipedia.org/wiki/Drum",
+    "lang": "en",
+    "content": "The drum is a member of the percussion group of musical instruments. In the Hornbostel-Sachs classification system, it is a membranophone. Drums consist of at least one membrane, called a drumhead or drum skin, that is stretched over a shell and struck, either directly with the player's hands, or with a percussion mallet, to produce sound. There is usually a resonant head on the underside of the drum. Other techniques have been used to cause drums to make sound, such as the thumb roll. Drums are the world's oldest and most ubiquitous musical instruments, and the basic design has remained virtually unchanged for thousands of years."
+  }, {
+    "name": "Airplane",
+    "enName": "Airplane",
+    "link": "https://en.wikipedia.org/wiki/Airplane",
+    "lang": "en",
+    "content": "An airplane or aeroplane (informally plane) is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. Worldwide, commercial aviation transports more than four billion passengers annually on airliners and transports more than 200 billion tonne-kilometers of cargo annually, which is less than 1% of the world's cargo movement. Most airplanes are flown by a pilot on board the aircraft, but some are designed to be remotely or computer-controlled such as drones."
+  }
+]
+}
