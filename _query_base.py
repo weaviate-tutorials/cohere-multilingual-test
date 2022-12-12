@@ -9,8 +9,7 @@ def semantic_serch(query):
     }
 
     properties = [
-        # "name", "content", "enName", "link", "lang",
-        "name", "enName", "content",
+        "name", "content", "enName", "link", "lang",
         "_additional {certainty distance}"
     ]
 
